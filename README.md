@@ -9,7 +9,7 @@ Class `Equaiton` is identically defined in both server-side and client-side. Fas
 # Getting Started
 ## Prerequisites
 - JDK 1.8
-- Jersey 2.27
+- Jersey 2.27 - Implements JAX-RS 2.1 API 
 - org.glassfish.jersey.media:jersey-media-json-jacksonn - Jersey JSON Jackson (2.x) entity providers support module.
 - org.glassfish.jersey.inject:jersey-hk2 - HK2 InjectionManager implementation.
 ## Installing
