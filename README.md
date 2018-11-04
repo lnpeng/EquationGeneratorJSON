@@ -11,7 +11,7 @@ Class `Equaiton` is identically defined in both server-side and client-side. Fas
 - JDK 1.8
 - Jersey 2.27
 - org.glassfish.jersey.media:jersey-media-json-jacksonn - Jersey JSON Jackson (2.x) entity providers support module.
-- jersey-hk2 - HK2 InjectionManager implementation: org.glassfish.jersey.inject
+- org.glassfish.jersey.inject:jersey-hk2 - HK2 InjectionManager implementation.
 ## Installing
 ```
 git clone git@github.com:lnpeng/EquationGeneratorJSON.git
